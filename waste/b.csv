@@ -1,0 +1,51 @@
+"","x"
+"(Intercept)",0.993709691136996
+"Age",-0.271169114261233
+"BusinessTravelTravel_Frequently",1.84946192148194
+"BusinessTravelTravel_Rarely",1.13279875764877
+"jobHuman Resources_Manager",-14.8138632836964
+"jobResearch & Development_Healthcare Representative",-0.408447979887291
+"jobResearch & Development_Laboratory Technician",0.268078902826335
+"jobResearch & Development_Manager",0.230586134195404
+"jobResearch & Development_Manufacturing Director",0.35482770508134
+"jobResearch & Development_Research Director",-1.07251197192229
+"jobResearch & Development_Research Scientist",-0.385736795331451
+"jobSales_Manager",-0.571868184101276
+"jobSales_Sales Executive",1.19448587855258
+"jobSales_Sales Representative",0.870979551928048
+"DistanceFromHome",0.481486989051667
+"EducationFieldLife Sciences",-1.74421763244846
+"EducationFieldMarketing",-1.26059047636764
+"EducationFieldMedical",-1.82098265866971
+"EducationFieldOther",-1.75081431867434
+"EducationFieldTechnical Degree",-0.610392374491586
+"EnvironmentSatisfaction2",-0.953614819448998
+"EnvironmentSatisfaction3",-1.23776231359729
+"EnvironmentSatisfaction4",-1.3280240360067
+"GenderMale",0.471993052461472
+"JobInvolvement2",-1.41062394203503
+"JobInvolvement3",-1.60645222034763
+"JobInvolvement4",-2.01521799545222
+"JobLevel2",-0.902865046965243
+"JobLevel3",0.285960367057741
+"JobLevel4",-0.24500611794418
+"JobLevel5",2.55479779443489
+"JobSatisfaction2",-0.611637115044173
+"JobSatisfaction3",-0.783323733564398
+"JobSatisfaction4",-1.5403208830673
+"MaritalStatusMarried",0.601805305033422
+"MaritalStatusSingle",1.61459826291259
+"MonthlyIncome",-0.646461599818573
+"NumCompaniesWorked",0.487905790453205
+"OverTimeYes",2.31818408431574
+"RelationshipSatisfaction2",-0.783616877060218
+"RelationshipSatisfaction3",-0.769598433926538
+"RelationshipSatisfaction4",-1.08150938862331
+"TotalWorkingYears",-0.57821498784378
+"WorkLifeBalance2",-0.883138904031223
+"WorkLifeBalance3",-1.36886471354034
+"WorkLifeBalance4",-0.722065164094234
+"YearsAtCompany",0.420083878429097
+"YearsInCurrentRole",-0.391634062690225
+"YearsSinceLastPromotion",0.445784220009606
+"YearsWithCurrManager",-0.359579554123839
